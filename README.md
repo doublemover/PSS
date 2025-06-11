@@ -113,6 +113,6 @@ If you encounter issues or have questions about this script:
 
 ---
 
-If one of these scripts was useful:
+If one of these scripts was useful, or you'd like to pay me to write a version that works on Macs:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E71G7Y0T)
