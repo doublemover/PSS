@@ -1,5 +1,5 @@
 # 2xMVR PSS
-Powershell Scripts for Various Bullshit
+Python & Powershell Scripts for Various Bullshit
 
 ---
 
